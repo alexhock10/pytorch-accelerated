@@ -1,0 +1,4 @@
+black
+versioneer==0.21
+pytest==1.11.0
+pytest-mock==3.6.1
